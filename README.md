@@ -1,4 +1,4 @@
-# rimage
+# rimage hi
 
 `rimage` is a DSP firmware image creation and signing tool targeting
 the DSP on certain Intel System-on-Chip (SoC). This is used by
